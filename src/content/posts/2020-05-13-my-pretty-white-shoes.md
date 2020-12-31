@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "2"
-slug: "2"
+slug: /2
 date: 2020-12-31 17:19
 description: "2"
 featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
