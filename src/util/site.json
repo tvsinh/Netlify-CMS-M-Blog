@@ -3,7 +3,7 @@
     "title": "My Blog",
     "titleTemplate": "%s",
     "description": "Built with Gatsby and Netlify CMS.",
-    "siteUrl": "https://tvsinh.netlify.app/",
+    "siteUrl": "https://manage-blog.netlify.app/",
     "image": "/assets/icon.png",
     "iconimage": "/assets/icon.png",
     "twitterUsername": "@TvS_007"
