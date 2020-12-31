@@ -1,9 +1,0 @@
----
-template: blog-post
-title: "6"
-slug: "6"
-date: 2020-12-31 17:21
-description: "6"
-featuredImage: /assets/alexander-andrews-zw07kvdahpw-unsplash.jpg
----
-6
