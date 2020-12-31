@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "10"
-slug: "10"
+slug: /10
 date: 2020-12-31 17:26
 description: "10"
 featuredImage: /assets/sebastiaan-stam-5hbrem-5mnq-unsplash.jpg
