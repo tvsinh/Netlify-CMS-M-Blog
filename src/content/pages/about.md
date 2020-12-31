@@ -1,9 +1,6 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About Me
 ---
-
-
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
-
+![Me](/assets/icon.png "Me")
