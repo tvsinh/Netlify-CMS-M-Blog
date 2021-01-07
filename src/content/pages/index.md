@@ -2,8 +2,8 @@
 template: index-page
 slug: /
 title: My Blog
-tagline: My Life
-featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
+tagline: Proverbs I like
+featuredImage: /assets/str.png
 cta:
   ctaText: Know more
   ctaLink: /about
