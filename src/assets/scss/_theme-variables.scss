@@ -10,14 +10,14 @@ $breakpoint-xl: 1200px;
 	--font-family-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --font-size-small: 12px;
   
-  --primary-color: #5C2941;
-  --header-bg: #5C2941;
+  --primary-color: #0077b5;
+  --header-bg: #0077b5;
 
-  --home-link-color: #A1613F;
+  --home-link-color: #74aed4;
   --home-link-hover-color:  var(--primary-color);
 
-  --button-color: #E5C3D3;
-  --button-alternate-color: #5C2941;
+  --button-color: #afafaf;
+  --button-alternate-color: #2e3538;
 
   --post-link-color: #0F070B;
 
@@ -25,7 +25,7 @@ $breakpoint-xl: 1200px;
   --nav-link-hover-bg: #111;
   --text-color-meta: rgba(0,0,0,0.5);
 
-  --label-text: #777;
+  --label-text: #fff;
   --input-focus-border: #83AAAC;
   
   // CSS Grid Utility
