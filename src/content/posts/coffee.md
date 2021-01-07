@@ -6,4 +6,4 @@ date: 2020-12-27 08:40
 description: Coffee
 featuredImage: /assets/coffee.jpg
 ---
-Coffee is a favorite drink.
+Coffee is a favorite drink..
