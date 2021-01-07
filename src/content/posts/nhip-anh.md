@@ -8,4 +8,4 @@ featuredImage: /assets/canon.jpg
 ---
 Enjoy taking pictures when you have free time.
 
-![Canon Photo](/assets/canon.jpg "Canon Photo")
+![Canon Photo](/assets/map.jpg "Canon Photo")
