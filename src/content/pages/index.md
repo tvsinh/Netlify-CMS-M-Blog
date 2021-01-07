@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: My Blog
 tagline: Proverbs I like
-featuredImage: /assets/str.png
+featuredImage: /assets/blog.png
 cta:
   ctaText: Know more
   ctaLink: /about
